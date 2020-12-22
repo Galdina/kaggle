@@ -1,0 +1,11 @@
+*.sqlite
+data/*.csv
+data/*.gz
+data/*.json
+.ipynb_checkpoints/*.ipynb
+
+
+CCC/data/*.csv
+CCC/data/*.gz
+CCC/data/*.json
+CCC/.ipynb_checkpoints/*.ipynb
