@@ -1,5 +1,5 @@
 # Some Projects from Kaggle 
-![](/img/public_dataset.png)
+![](/img/public_dataset.jpg)
 <pre>
 Public Datasets
 </pre>
