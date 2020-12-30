@@ -1,9 +1,7 @@
 # Some Projects from Kaggle 
 ![](/img/public_dataset.png)
 <pre>
-Contributors:
-<a href=https://github.com/luaymatalka/>Luay Matalka</a>
-<a href=https://github.com/Galdina>Maria Galdina</a>
+Public Datasets
 </pre>
 
 # 1. Credit Cart Curh Detection 
